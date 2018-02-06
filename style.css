@@ -1,0 +1,67 @@
+body{
+  background-color: rgb(55, 55, 51);
+}
+main{
+  width: 40%;
+  top: 70px;;
+  position: relative;
+  flex-direction: row;
+  display: flex;
+  background-color: white;
+  margin: 0 auto;
+  padding: 10px;
+}
+main p{
+  padding: 10.5px;
+}
+
+#mad{
+font-size: 30px;
+width: 40%;
+position: absolute;
+top: -30px;
+left: 29.5%;
+font-family: 'Berkshire Swash';
+color: white;
+}
+
+header{
+  top: 70px;
+  padding: 10px 10px 10px 10px;
+  font-size: 30px;
+  width: 40%;
+  position: relative;
+  margin: 0 auto;
+  color: white;
+  background-color: darkred;
+}
+
+input{
+  margin: 11px auto;
+}
+aside{
+  height: 80%;
+
+
+}
+
+p{
+  margin: 0;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+footer{
+  position: relative;
+  width: 40%;
+  background-color: lightgrey;
+  margin: 0 auto;
+  top: 70px;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+}
+
+#link{
+  text-decoration: none;
+  color: white;
+}
